@@ -1,0 +1,33 @@
+.flex-all-center {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.btn {
+  padding: 5px 10px;
+  color: white;
+  background: var(--main-bg-color);
+  border: 2px solid white;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.my-1 {
+  margin: 5px 0;
+}
+
+.my-2 {
+  margin: 26px 0;
+}
+
+.text-center {
+  text-align: center;
+}
+/*# sourceMappingURL=util.css.map */
